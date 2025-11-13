@@ -11,3 +11,6 @@ jinja2
 requests
 uvicorn
 pydantic_settings
+langgraph
+langchain
+langchain-openai
